@@ -51,3 +51,5 @@ For iTunes `.itl` file parsing there exist older projects:
  - [titl](https://github.com/josephw/titl), which allows reading and modification of `itl` files.
  - Another script [extracts playlists from `itl` files](https://gist.github.com/jeamland/c856e9993008c9611a9910a3b22f9479).
  - [A project in Go](https://github.com/rclancey/itunes) to extract data from the XML and `itl` files.
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
